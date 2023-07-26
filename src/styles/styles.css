@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+
+
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 414px;
+    
+
+}
+
+header {
+    background-color: #00AEFF;
+    height: 60px;
+
+
+}
+
+.desconto {
+    padding: 15px 58px 14px;
+    color: #181818;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 196.187%;
+    text-align: center;
+
+
+
+
+}
+
+
+.apresentacaoLoja {
+    
+    opacity: 0.6000000238418579;
+  
+    
+   
+
+
+}
+
+.apresentacao {
+    text-align: center;
+    background: #181818 url(./jordan.svg);
+    color: white;
+    height: 377px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    }
+
+.nomeLoja { 
+
+    font-family: 'Montserrat', sans-serif;
+    padding: 6px 0 7px;
+    color: #181818;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 196.187%;
+    text-align: center;
+}
+
+
+.h2 {
+    padding: 122px 44px 12px 20px;
+    color: #F9F9F9;
+}
+
+.p1 {
+    margin: 0 37px 122px 20px;
+}
+
+
+section {
+    padding: 50px 130px 0 129px;
+    text-align: center;
+}
+
+.jordan {
+    margin: 76px 62px 76px;
+}
+
+img {
+    width: 250px;
+    height: 150px;
+}
